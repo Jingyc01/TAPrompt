@@ -32,7 +32,7 @@ For `Split-RESISC45-transfer`, the code filters RESISC45 into five predefined ta
 Run commands from the repository root.
 
 ```bash
-cd TAPrompt
+cd ./TAPrompt
 ```
 
 Example: Split-CIFAR100 with supervised ViT.

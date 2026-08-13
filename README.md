@@ -1,4 +1,4 @@
-# TAPrompt:Transfer-Aware Prompt for Continual Learning via Topology-Guided Memory Synthesis
+# TAPrompt: Transfer-Aware Prompt for Continual Learning via Topology-Guided Memory Synthesis
 
 TAPrompt is a PyTorch implementation for prompt-based class-incremental learning with Vision Transformers. This repository is prepared for review and reproducibility. 
 
@@ -88,4 +88,8 @@ Evaluation logs are written to `output_dir` as `test_stats_<timestamp>_<id>.txt`
 
 ## Acknowledgement
 
-This repository is built on TAPrompt and also follows components and conventions from HiDe-Prompt.
+This repository is built on CAPrompt and HiDe-Prompt.
+
+## Citation
+
+If you find this code useful, please cite our paper. The BibTeX entry will be updated after publication.
